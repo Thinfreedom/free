@@ -46,7 +46,7 @@ html {
   -o-tab-size: 4;
      tab-size: 4;
   /* 3 */
-  font-family: Noto Sans Lao Looped-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Noto Sans Lao Looped, "Helvetica Neue", Noto Sans Lao Looped, "Noto Sans Lao Looped", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      font-family: 'Noto Sans Lao', sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Noto Sans Lao Looped, "Helvetica Neue", Noto Sans Lao Looped, "Noto Sans Lao Looped", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   /* 4 */
   font-feature-settings: normal;
   /* 5 */
@@ -1057,6 +1057,7 @@ video {
 .text-sm{
   font-size: 0.875rem;
   line-height: 1.25rem;
+      font-family: 'Noto Sans Lao', sans-serif;
 }
 
 .text-xl{
